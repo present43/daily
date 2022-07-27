@@ -3,7 +3,7 @@ package com.example.demo.polymorphic;
 /**
  * 子类 猫
  */
-public class Cat implements Animal{
+public class Cat implements Animal {
     private String name;
     private String age;
 

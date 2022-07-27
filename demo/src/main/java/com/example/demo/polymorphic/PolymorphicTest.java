@@ -3,12 +3,11 @@ package com.example.demo.polymorphic;
 /**
  * 多态 相关代码测试
  * 1.
- *
  */
 public class PolymorphicTest {
 
     public static void main(String[] args) {
-        Test(new Dog("小黄","2"));
+        Test(new Dog("小黄", "2"));
 
     }
 

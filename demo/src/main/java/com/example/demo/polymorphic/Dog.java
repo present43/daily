@@ -3,11 +3,11 @@ package com.example.demo.polymorphic;
 /**
  * 子类 狗
  */
-public class Dog implements Animal{
+public class Dog implements Animal {
     private String name;
     private String age;
 
-    public void eat(){
+    public void eat() {
         System.out.println("狗子吃骨头");
     }
 
