@@ -1,4 +1,4 @@
-package com.example.design.factory.simpleFactory;
+package com.example.design.factory.enu;
 
 public enum PizzType {
 

@@ -3,7 +3,7 @@ package com.example.design.factory.simpleFactory;
 import lombok.Data;
 
 @Data
-public class SHPizz extends Pizz {
+public class SHPizz extends FactoryPizz {
 
     private String taste;
 
